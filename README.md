@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yaseera Tabassum.
 - 👀 I’m interested in Computer Sciences.
-- 🌱 I’m currently learning Front end Web Development
-- 💞️ I’m looking to collaborate on multiple projects
+- 🌱 I’m currently learning Front end Web Development.
+- 💞️ I’m looking to collaborate on multiple projects.
 
 
 <!---
