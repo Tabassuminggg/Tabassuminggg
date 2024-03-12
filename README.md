@@ -1,5 +1,5 @@
 - Hi, I’m Yaseera Tabassum.
-- 👀 I’m interested in Computer Science.
+- I’m interested in Computer Science.
 
 
 <!---
