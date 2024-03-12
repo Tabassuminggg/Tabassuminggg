@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yaseera Tabassum.
+- Hi, I’m Yaseera Tabassum.
 - 👀 I’m interested in Computer Science.
 
 
